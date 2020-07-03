@@ -1,0 +1,13 @@
+$https://www.anaconda.com/distribution/
+$https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh
+$wget https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh
+$chmod 777 Anaconda3-2020.02-Linux-x86_64.sh  
+ -- you may have different version when you watch video. 
+How to open Anaconda
+$./Anaconda3-2020.02-Linux-x86_64.sh 
+
+How to run a  Jupiter notebook
+$jupiter notebook
+
+print test text on J
+print(“Test”)
